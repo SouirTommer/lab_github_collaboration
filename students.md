@@ -10,3 +10,17 @@
 === Do not modify the content above===
 
 === Copy the above template and paste below and edit it ===
+
+=== Do not modify the content below ===
+
+## Richard Lui
+hi i'm richard
+
+[My Github account](http://www.github.com/cswclui)
+
+[My Github page](https://cswclui.github.io/my_github_page/)
+
+=== Do not modify the content above===
+
+=== Copy the above template and paste below and edit it ===
+
