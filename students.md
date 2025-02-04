@@ -16,7 +16,7 @@
 ## Richard Lui
 hi i'm richard
 
-[My Github account](http://www.github.com/put-your-github-username-here/)
+[My Github account](http://www.github.com/cswclui)
 
 [My Github page](https://cswclui.github.io/my_github_page/)
 
